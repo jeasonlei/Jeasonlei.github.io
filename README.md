@@ -12,7 +12,7 @@ My research field incldues International Trade, International Finance, Empirical
 
 I will be on the job market in 2026-2027 and available for interviews. You can find my CV and bio in Chinese here. Feel free to contact me if you are interested in my research!
 
-First Email: lsha1@uni-bonn.de ; Sseond Email: shaohailei1688@gmail.com
+First Email: [lsha1@uni-bonn.de] ; Sseond Email: [shaohailei1688@gmail.com]
 
 # Social Links
 
@@ -65,6 +65,9 @@ This study investigates the impact of digitalized tax administration (DTA) on mu
 🔗 **DOI:** [10.1016/j.intfin.2025.102177]((https://doi.org/10.1016/j.intfin.2025.102177))  
 **Reference** Chen, Y., & Lei, S. (2025). Tax avoidance opportunity for multinational enterprises: Effects of digitalized tax administration in China. Journal of International Financial Markets, Institutions and Money, 102, 102177.
 📄 [Publication](#) | [PDF](#)
+
+
+
 
 
 
