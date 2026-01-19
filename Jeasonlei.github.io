@@ -12,7 +12,7 @@ baseurl: ""
 # =========================
 author:
   name: "Shaohai Lei"
-  avatar: "shaohailei.jpg"   # 之后可放一张头像到 images/
+  avatar: "profile.jpg"
   bio: >
     Visiting PhD Student at the University of Bonn.
     PhD candidate in International Trade at Nanjing Agricultural University.
@@ -20,7 +20,7 @@ author:
     local labor markets, and welfare analysis.
   location: "Bonn, Germany"
   employer: "University of Bonn"
-  email: "lsha1@uni-bonn.de"
+  email: "shl@uni-bonn.de"
 
 # =========================
 # Academic Profile
@@ -37,9 +37,9 @@ academic:
 # =========================
 social:
   github: shaohai-lei
-  google_scholar: ""
-  linkedin: ""
-  twitter: ""
+  google_scholar:
+  linkedin:
+  twitter:
 
 # =========================
 # Navigation Bar
@@ -80,3 +80,4 @@ defaults:
     values:
       layout: "single"
       author_profile: true
+
