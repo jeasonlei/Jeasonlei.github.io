@@ -1,4 +1,5 @@
 
+
 # =========================
 # Site Settings
 # =========================
@@ -20,7 +21,7 @@ author:
     local labor markets, and welfare analysis.
   location: "Bonn, Germany"
   employer: "University of Bonn"
-  email: "shl@uni-bonn.de"
+  email: "lsha1@uni-bonn.de"
 
 # =========================
 # Academic Profile
@@ -36,10 +37,10 @@ academic:
 # Social Links
 # =========================
 social:
-  github: shaohai-lei
-  google_scholar:
-  linkedin:
-  twitter:
+  github: jeasonlei
+  google_scholar: "https://scholar.google.com/citations?user=mmrlrmEAAAAJ&hl=en"
+  linkedin: "https://www.linkedin.com/in/jeason-phone-cale-usb-cable-dc-cable-lei-41a739208/?locale=en_US"
+  ORCID: "https://orcid.org/0000-0002-0926-6206"
 
 # =========================
 # Navigation Bar
