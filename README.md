@@ -6,7 +6,7 @@ Hey, Welcome to my personal website!
 
 # ⭐About me
 
-I am a final-year PhD candidate from the College of Economics and Management at Nanjing Agricultural University in China. Now, I am also a visiting researcher work at Institute of Food and Reseource Economics (ILR) at The University of Bonn in Germany. 
+I am an junior agricultrual Economicist work at Institute of Food and Reseource Economics (ILR) at The University of Bonn in Germany.
 
 My research field incldues International Trade, International Finance, Empirical Microeconomics, Development Economics, Chinese Economy. My research interests focus on the Agri-product trade and policy analysis, frim international activity and market power and climate risk and corporate finance.
 
