@@ -6,11 +6,11 @@ Hey, Welcome to my personal website!
 
 # ⭐About me
 
-I am an junior agricultrual Economicist work at Institute of Food and Reseource Economics (ILR) at The University of Bonn in Germany.
+I am an junior agricultrual Economist work at Institute of Food and Reseource Economics (ILR) at The University of Bonn in Germany, belong to the research team of Economic and Agricultural Policy of Thomas Heckelei and Yaghoob Jafari.
 
 My research field incldues International Trade, International Finance, Empirical Microeconomics, Development Economics, Chinese Economy. My research interests focus on the Agri-product trade and policy analysis, frim international activity and market power and climate risk and corporate finance.
 
-I will be on the job market in 2026-2027 and available for interviews. You can find my CV and bio in Chinese here. Feel free to contact me if you are interested in my research!
+You can find my CV and bio in Chinese here. Feel free to contact me if you are interested in my research!
 
 First Email: [lsha1@uni-bonn.de] ; Sseond Email: [shaohailei1688@gmail.com]
 
